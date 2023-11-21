@@ -68,7 +68,7 @@ const About = () => {
             </div>
             <div className="desc">
               <p>
-                At Akbay, we believe in the power of collective action to uplift lives and strengthen communities. Our platform is designed to turn your advocacy into action, enabling you to create meaningful change through community support. Here's what makes us different:
+                At Akbay, we believe in the power of collective action to uplift lives and strengthen communities. Our platform is designed to turn your advocacy into action, enabling you to create meaningful change through community support. Here&apos;s what makes us different:
 </p>
               <p>
                 Personalized Support
@@ -80,11 +80,11 @@ const About = () => {
 </p>
               <p>
                 Community Driven
-                Akbay is built on the principle of 'Bayanihan,' the Filipino spirit of communal unity and cooperation. We thrive on the connections made within our community of change-makers and supporters.
+                Akbay is built on the principle of &apos;Bayanihan,&apos; the Filipino spirit of communal unity and cooperation. We thrive on the connections made within our community of change-makers and supporters.
 </p>
               <p>
                 Impactful Storytelling
-                We recognize the power of a well-told story. That's why we offer tools and tips to help you share your narrative in the most impactful way, resonating with donors and inspiring action.
+                We recognize the power of a well-told story. That&apos;s why we offer tools and tips to help you share your narrative in the most impactful way, resonating with donors and inspiring action.
               </p>
               
             </div>
