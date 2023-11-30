@@ -1,0 +1,39 @@
+[
+	{
+		"id": 1,
+		"title": "Campaign Title 1",
+		"description": "Description of Campaign 1",
+		"headerImage": "/img/campaign/donation1.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Campaign Title 2",
+		"description": "Description of Campaign 2",
+		"headerImage": "/img/campaign/donation2.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Campaign Title 3",
+		"description": "Description of Campaign 3",
+		"headerImage": "/img/campaign/donation3.jpg",
+		"videoLink": "https://www.youtube.com/watch?v=OxibrkSZVLs"
+	},
+	{
+		"id": 4,
+		"title": "Campaign Title 4",
+		"description": "Description of Campaign 4",
+		"headerImage": "/img/campaign/donation4.jpg"
+	},
+	{
+		"id": 5,
+		"title": "Campaign Title 5",
+		"description": "Description of Campaign 5",
+		"headerImage": "/img/campaign/donation5.jpg"
+	},
+	{
+		"id": 6,
+		"title": "Campaign Title 6",
+		"description": "Description of Campaign 6",
+		"headerImage": "/img/campaign/donation6.jpg"
+	}
+]
